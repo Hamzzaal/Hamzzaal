@@ -1,6 +1,3 @@
-# Dynamic GitHub Profile README.md
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF731&width=435&lines=Hello+World!+👋;I'm+Hamzah+Alhaidari;Cybersecurity+Specialist;Network+Security+Engineer;Penetration+Tester" alt="Typing SVG" />
   
@@ -23,9 +20,6 @@
 + Certified in Google Cybersecurity & Microsoft Defender XDR
 ! Passionate about Ethical Hacking & Threat Intelligence
 - Currently learning Cloud Security & DevSecOps
-```
-
----
 
 ## 🛠️ My Tech Stack
 
@@ -105,23 +99,15 @@
 
 ---
 
-## 🎯 Goals for 2024
-
-- [x] Obtain CompTIA Security+ certification
-- [ ] Complete OSCP certification
-- [ ] Build an open-source SIEM tool
-- [ ] Contribute to major cybersecurity projects
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
   
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/hamzah-alhaidari-bb2228219)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/yourhandle)
-[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:your.email@example.com)
-[![TryHackMe](https://img.icons8.com/color/48/000000/tryhackme.png)](https://tryhackme.com/p/yourprofile)
+[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:7.7hamza0@gmail.com
+)
+[![TryHackMe](https://img.icons8.com/color/48/000000/tryhackme.png)](https://tryhackme.com/p/ETH.CYBER)
 [![HackTheBox](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hack-the-box-is-a-cyber-security-training-platform-logo-shadow-tal-revivo.png)](https://app.hackthebox.com/profile/yourprofile)
 
 </div>
@@ -135,21 +121,3 @@
 </div>
 ```
 
-### Features Included:
-1. **Dynamic Typing Animation** - Eye-catching header with rotating titles
-2. **Interactive Badges** - Clickable social media and certification badges
-3. **Expandable Sections** - Organized content with clear sections
-4. **GitHub Statistics** - Auto-updating stats with visual charts
-5. **Snake Animation** - Fun contribution graph visualization
-6. **Project Cards** - Clean project display with descriptions
-7. **Progress Tracking** - Goals checklist with completion status
-8. **Random Quotes** - Motivational cybersecurity quotes
-
-### How to Customize:
-1. Replace all placeholder links with your actual profiles
-2. Update projects with your real repositories
-3. Add/remove certifications as needed
-4. Modify the tech stack to match your skills
-5. Add your blog posts or articles
-
-This comprehensive README will make your GitHub profile stand out while showcasing your cybersecurity expertise professionally!
