@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hamzzaal&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
 </div>
 
----
+
 
 ## 🔥 About Me
 
@@ -46,7 +46,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
----
+
 
 ## 📜 Certifications
 
@@ -60,7 +60,7 @@
 
 </div>
 
----
+
 
 ## 🚀 My Projects
 
@@ -74,7 +74,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -97,7 +97,7 @@
 - [Securing Linux Servers: Best Practices](https://example.com)
 - [Understanding SIEM Solutions](https://example.com)
 
----
+
 
 ## 🤝 Let's Connect
 
