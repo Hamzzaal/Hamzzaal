@@ -34,7 +34,7 @@
 ---
 
 ## 🔧 Technical Skills
-
+---
 ```yaml
 Cybersecurity:
   - Threat Intelligence & Analysis
@@ -55,3 +55,4 @@ Tools:
   - Wireshark, PyShark, Nmap, Burp Suite
   - Metasploit, Splunk, Kali Linux
   - Tkinter GUI, Scikit-learn, Flask, FastAPI
+---
